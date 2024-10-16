@@ -1,51 +1,54 @@
-﻿# include <iostream>
-# include <cmath>
+#include <iostream>
 using namespace std;
 
 int main()
 {
-    setlocale(LC_ALL, "Russian");
+	setlocale(LC_ALL, "Russian");
+	double x;
+	double y; 
+	double a;
+	double b;
 
-    double x;
-    double y;
-    double b;
-    double a;
-    double z;
-    cout << "Введите x:" << endl;
-    cin >> x;
-    cout << "Введите y:" << endl;
-    cin >> y;
-    cout << "Введите b:" << endl;
-    cin >> b;
-    cout << "Введите a:" << endl;
-    cin >> a;
-    if (x * y > 0) {
+	cout << "Введите x = ";
+	cin >> x;
 
-        z = pow(1, x * y + a * b);
+	cout << "Введите y = ";
+	cin >> y;
 
-    }
-    else if (x * y == 0) {
-        // Предположение
+	cout << "Введите b = ";
+	cin >> b;
 
-        double minEL = a * x;
-        if (minEL > y) {
-            minEL = y;
-        }
+	cout << "Введите a = ";
+	cin >> a;
 
-        z = minEL;
-    }  if (x * y > 0) {
 
-        //Предположение
-        double maxEL = pow(y, 2);
-        if (maxEL > pow(x, 3)) {
-            if (maxEL > exp(y))
-            {
-                maxEL = exp(y);
-            }
-        }
-
-        z = maxEL;
-    }
-
-    cout << endl << z << endl;
+	if (x * y > 0)
+	{
+		double z = 1 - exp(x * y + a * b);
+		cout << "result: " << z;
+	}
+	if (x * y == 0)
+	{
+		double ElMin = a * x; //предположение
+		if (ElMin > y)
+		{
+			ElMin = y;
+		}
+		double z = b - ElMin;
+		cout << "result: " << z;
+	}
+	if (x * y < 0)
+	{
+		double ElMax = pow(x, 3); //предположение
+		if (ElMax < exp(y))
+		{
+				ElMax = exp(y);
+		}
+		if (ElMax < sqrt(log(pow(y, 2))))
+		{
+				ElMax = sqrt(log(pow(y, 2)));
+		}
+		double z = ElMax;
+		cout << "result: " << z;
+	}
 }
