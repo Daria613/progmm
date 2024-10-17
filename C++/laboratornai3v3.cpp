@@ -1,5 +1,4 @@
-﻿#include <iostream>
-#include <cmath>
+#include <iostream>
 using namespace std;
 
 int main()
@@ -27,12 +26,12 @@ int main()
 	cout << "Использование цикла do While" << endl;
 	cout << "--------------------" << endl << endl;
 	// С использованием do While
-	x = 0;
+	x = -1;
 	do
-	{ 
+	{
 		y = 0.1 * pow(2, -x) * exp(x);
 		x += 0.1;
 		cout << y << endl;
 	} while (x <= 1);
-	
+
 }
