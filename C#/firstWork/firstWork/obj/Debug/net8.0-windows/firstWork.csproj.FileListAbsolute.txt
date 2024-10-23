@@ -1,0 +1,16 @@
+C:\Users\unit_3\source\repos\firstWork\firstWork\bin\Debug\net8.0-windows\firstWork.exe
+C:\Users\unit_3\source\repos\firstWork\firstWork\bin\Debug\net8.0-windows\firstWork.deps.json
+C:\Users\unit_3\source\repos\firstWork\firstWork\bin\Debug\net8.0-windows\firstWork.runtimeconfig.json
+C:\Users\unit_3\source\repos\firstWork\firstWork\bin\Debug\net8.0-windows\firstWork.dll
+C:\Users\unit_3\source\repos\firstWork\firstWork\bin\Debug\net8.0-windows\firstWork.pdb
+C:\Users\unit_3\source\repos\firstWork\firstWork\obj\Debug\net8.0-windows\firstWork.Form1.resources
+C:\Users\unit_3\source\repos\firstWork\firstWork\obj\Debug\net8.0-windows\firstWork.csproj.GenerateResource.cache
+C:\Users\unit_3\source\repos\firstWork\firstWork\obj\Debug\net8.0-windows\firstWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unit_3\source\repos\firstWork\firstWork\obj\Debug\net8.0-windows\firstWork.AssemblyInfoInputs.cache
+C:\Users\unit_3\source\repos\firstWork\firstWork\obj\Debug\net8.0-windows\firstWork.AssemblyInfo.cs
+C:\Users\unit_3\source\repos\firstWork\firstWork\obj\Debug\net8.0-windows\firstWork.csproj.CoreCompileInputs.cache
+C:\Users\unit_3\source\repos\firstWork\firstWork\obj\Debug\net8.0-windows\firstWork.dll
+C:\Users\unit_3\source\repos\firstWork\firstWork\obj\Debug\net8.0-windows\refint\firstWork.dll
+C:\Users\unit_3\source\repos\firstWork\firstWork\obj\Debug\net8.0-windows\firstWork.pdb
+C:\Users\unit_3\source\repos\firstWork\firstWork\obj\Debug\net8.0-windows\firstWork.genruntimeconfig.cache
+C:\Users\unit_3\source\repos\firstWork\firstWork\obj\Debug\net8.0-windows\ref\firstWork.dll
