@@ -29,7 +29,8 @@ double Opereic(double a2, double c2, double b2)
 
 	if (a2 < 59 || a2 > 61)
 	{
-		cout << "Ошибка повторите ввод" << endl;
+		cout << "ОШИБКА! Сумма углов больше 180 или меньше 0" << endl;
+		cout << "введите углы заного" << endl;
 	}
 
 
@@ -40,7 +41,8 @@ double Opereic(double a2, double c2, double b2)
 	if (b2 < 59 || b2 > 61)
 		double b2; cin >> b2;
 	{
-		cout << "Ошибка повторите ввод" << endl;
+		cout << "ОШИБКА! Сумма углов больше 180 или меньше 0" << endl;
+		cout << "введите углы заного" << endl;
 	}
 
 
@@ -49,7 +51,8 @@ double Opereic(double a2, double c2, double b2)
 	cout << endl << 180 << endl;
 	if (c2 < 59 || c2 > 61)
 	{
-		cout << "Ошибка повторите ввод" << endl;
+		cout << "ОШИБКА! Сумма углов больше 180 или меньше 0" << endl;
+		cout << "введите углы заного" << endl;
 	}
 	double Opereic(double a, double c2, double b2);
 
