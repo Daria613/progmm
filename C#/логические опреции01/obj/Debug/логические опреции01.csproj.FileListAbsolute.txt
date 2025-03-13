@@ -1,0 +1,10 @@
+C:\Users\дарья\source\repos\логические опреции01\логические опреции01\bin\Debug\логические опреции01.exe.config
+C:\Users\дарья\source\repos\логические опреции01\логические опреции01\bin\Debug\логические опреции01.exe
+C:\Users\дарья\source\repos\логические опреции01\логические опреции01\bin\Debug\логические опреции01.pdb
+C:\Users\дарья\source\repos\логические опреции01\логические опреции01\obj\Debug\логические опреции01.csproj.AssemblyReference.cache
+C:\Users\дарья\source\repos\логические опреции01\логические опреции01\obj\Debug\логические_опреции01.Form1.resources
+C:\Users\дарья\source\repos\логические опреции01\логические опреции01\obj\Debug\логические_опреции01.Properties.Resources.resources
+C:\Users\дарья\source\repos\логические опреции01\логические опреции01\obj\Debug\логические опреции01.csproj.GenerateResource.cache
+C:\Users\дарья\source\repos\логические опреции01\логические опреции01\obj\Debug\логические опреции01.csproj.CoreCompileInputs.cache
+C:\Users\дарья\source\repos\логические опреции01\логические опреции01\obj\Debug\логические опреции01.exe
+C:\Users\дарья\source\repos\логические опреции01\логические опреции01\obj\Debug\логические опреции01.pdb
